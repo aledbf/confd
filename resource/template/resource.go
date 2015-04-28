@@ -16,7 +16,7 @@ import (
 	"github.com/BurntSushi/toml"
 	"github.com/kelseyhightower/confd/backends"
 	"github.com/kelseyhightower/confd/log"
-	"github.com/kelseyhightower/memkv"
+	"github.com/deis/memkv"
 )
 
 type Config struct {

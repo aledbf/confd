@@ -1,6 +1,6 @@
 {
 	"ImportPath": "github.com/kelseyhightower/confd",
-	"GoVersion": "go1.4",
+	"GoVersion": "go1.4.2",
 	"Deps": [
 		{
 			"ImportPath": "github.com/BurntSushi/toml",
@@ -21,16 +21,16 @@
 			"Rev": "6aa2da5a7a905609c93036b9307185a04a5a84a5"
 		},
 		{
+			"ImportPath": "github.com/deis/memkv",
+			"Rev": "62f0ccf4c23ff6461ab6fdad6a34755782c91497"
+		},
+		{
 			"ImportPath": "github.com/garyburd/redigo/internal",
 			"Rev": "2668ae2944701f73206a228638407926dea859b1"
 		},
 		{
 			"ImportPath": "github.com/garyburd/redigo/redis",
 			"Rev": "2668ae2944701f73206a228638407926dea859b1"
-		},
-		{
-			"ImportPath": "github.com/kelseyhightower/memkv",
-			"Rev": "7f9c7f36f45ba80c62fe22779ee78d9b4ca36580"
 		},
 		{
 			"ImportPath": "github.com/samuel/go-zookeeper/zk",
