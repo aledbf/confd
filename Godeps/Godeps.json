@@ -22,7 +22,7 @@
 		},
 		{
 			"ImportPath": "github.com/deis/memkv",
-			"Rev": "62f0ccf4c23ff6461ab6fdad6a34755782c91497"
+			"Rev": "17105cd67fd98fc3e835c5e293498928110bcce6"
 		},
 		{
 			"ImportPath": "github.com/garyburd/redigo/internal",
