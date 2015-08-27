@@ -1,0 +1,7 @@
+[template]
+mode = "0644"
+src = "slash.conf.tmpl"
+dest = "/tmp/slash-test.conf"
+keys = [
+  "/services",
+]

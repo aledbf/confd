@@ -1,0 +1,3 @@
+{{ $var2 := "api-cmd" }}
+{{ printf "printf output: %s/%s" "/services/api-dev" $var2 }}
+getv output: {{ getv (printf "%s/%s" "/services/api-dev" $var2) }}
